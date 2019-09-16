@@ -4,7 +4,7 @@ author: Marcus Beirne
 description: > # this means to ignore newlines until "baseurl:"
   An assorted collection of mostly harmless tips and projects
 # social links
-twitter_username: @marcus_beirne
+twitter_username: marcus_beirne
 github_username:  beirnem
 
 show_excerpts: true # set to false to remove excerpts on the homepage
